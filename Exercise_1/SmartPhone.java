@@ -1,4 +1,4 @@
-//IF-38-09_Adzan Nugraha_1301140249
+//IchsanRachmanGhifari_1301140299_IF3809//
 
 public class SmartPhone{
 	private Application[] AppList = new Application[10];
